@@ -1,0 +1,5 @@
+# Ignore everything in the folder
+c-shell/codecrafters-shell-c/*
+
+# But keep this one file
+!c-shell/codecrafters-shell-c/main.c
